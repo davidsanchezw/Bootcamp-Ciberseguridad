@@ -1,3 +1,5 @@
+'''Escribir una función que reciba un número entero positivo y devuelva su factorial.'''
+
 def factorial1(num):
     res = 1
     while num:
